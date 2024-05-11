@@ -2,7 +2,7 @@
  
 🚀 Sobre
 
-Este projeto visa criar uma planilha de corrida personalizada por meio de diversos inputs relevantes, usando a API do Google Gemini AI para a criação de uma solução única e pessoal.
+Este projeto visa criar uma planilha de corrida personalizada por meio de diversos inputs, usando a API do Google Gemini AI para a criação de uma solução única e pessoal.
 
 
 💻 Tecnologias Utilizadas
@@ -13,7 +13,7 @@ Este projeto visa criar uma planilha de corrida personalizada por meio de divers
 
 ⚙️ Funcionalidades
 
-A principal funcionalidade é criar uma planilha de corrida persolizada para que as pessoas atinjam seus objetivos em sete semanas.
+A principal funcionalidade é criar uma planilha de corrida personalizada para que as pessoas atinjam seus objetivos em sete semanas.
 
 
 🛠️ Instalação e Execução
